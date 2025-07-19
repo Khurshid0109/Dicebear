@@ -27,4 +27,4 @@
 ## ⚙️ Ishlash jarayoni
 
 1. Foydalanuvchi quyidagi kabi buyruq yuboradi:
-2. ![Botning ishlashi](./Images/Usage.jng)
+2. ![Botning ishlashi](Dicebear/Images/Usage.jpg)
