@@ -20,7 +20,7 @@
 
 ## 📷 Ilk ko‘rinish
 
-![Botning boshlang‘ich ko‘rinishi](./Images/Main.jng)
+![Botning ishlash ko‘rinishi](Dicebear/Images/Main.jpg)
 
 ---
 
